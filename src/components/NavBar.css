@@ -1,0 +1,28 @@
+.navbar{
+    background-color: coral;
+    color: beige;
+    padding: 20px;
+    text-align:end ;
+}
+
+
+
+
+
+
+.navbar a{
+background-color: aqua;
+color: black;
+padding: 2px;
+border: 1px solid;
+text-decoration: none;
+margin: 5px;
+
+}
+
+.active{
+    background-color: white !important;
+    color: coral !important;
+
+
+}
